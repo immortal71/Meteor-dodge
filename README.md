@@ -5,5 +5,5 @@ well it was my frist experience being taught by standford professor,it is quite 
 thankyou guys it was really fun studing with you all !!
 
 
-umm here if have any problem playing game make sure every dependency is properly installed in your device after that open terminal and enter -play main.py
+umm here if have any problem playing game make sure every dependency is properly installed in your device after that open terminal and enter -python main.py
 game will open !!
